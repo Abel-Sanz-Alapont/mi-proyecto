@@ -1,4 +1,5 @@
 <?php
+ require_once "./mi-proyecto/src/functions.php";
 
-echo "Hello world";
+ menssage();
 ?>
