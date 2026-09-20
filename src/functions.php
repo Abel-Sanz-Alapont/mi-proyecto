@@ -4,8 +4,8 @@ function menssage(){
     echo "Hola ";
 }
 
-function sumar($numero1, $numero2){
+function sum($num1, $num2){
 
-    $total= $numero1 + $numero2;
+    $total= $num1 + $num2;
     return $total;
 }
